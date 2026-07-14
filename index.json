@@ -1,0 +1,247 @@
+{
+  "library": "synth-goblins",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/synth-goblins",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/synth-goblins-opus-48",
+  "branch": "main",
+  "fileCount": 18,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/",
+  "files": [
+    {
+      "file": "C2.opus",
+      "name": "C2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/C2.opus",
+      "size": 55601,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C3.opus",
+      "name": "C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/C3.opus",
+      "size": 64814,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4.opus",
+      "name": "C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/C4.opus",
+      "size": 77696,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5.opus",
+      "name": "C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/C5.opus",
+      "size": 71826,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C6.opus",
+      "name": "C6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/C6.opus",
+      "size": 82871,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C7.opus",
+      "name": "C7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/C7.opus",
+      "size": 75500,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E2.opus",
+      "name": "E2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/E2.opus",
+      "size": 57793,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E3.opus",
+      "name": "E3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/E3.opus",
+      "size": 67928,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4.opus",
+      "name": "E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/E4.opus",
+      "size": 78694,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E5.opus",
+      "name": "E5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/E5.opus",
+      "size": 82175,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E6.opus",
+      "name": "E6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/E6.opus",
+      "size": 70787,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E7.opus",
+      "name": "E7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/E7.opus",
+      "size": 72553,
+      "note": "E7",
+      "midiNote": 100,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs2.opus",
+      "name": "Gs2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/Gs2.opus",
+      "size": 61767,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs3.opus",
+      "name": "Gs3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/Gs3.opus",
+      "size": 71084,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs4.opus",
+      "name": "Gs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/Gs4.opus",
+      "size": 83892,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs5.opus",
+      "name": "Gs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/Gs5.opus",
+      "size": 82922,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs6.opus",
+      "name": "Gs6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/Gs6.opus",
+      "size": 75493,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs7.opus",
+      "name": "Gs7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-opus-48/main/Gs7.opus",
+      "size": 82096,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "36": [
+      "C2.opus"
+    ],
+    "40": [
+      "E2.opus"
+    ],
+    "48": [
+      "C3.opus"
+    ],
+    "52": [
+      "E3.opus"
+    ],
+    "60": [
+      "C4.opus"
+    ],
+    "64": [
+      "E4.opus"
+    ],
+    "72": [
+      "C5.opus"
+    ],
+    "76": [
+      "E5.opus"
+    ],
+    "84": [
+      "C6.opus"
+    ],
+    "88": [
+      "E6.opus"
+    ],
+    "96": [
+      "C7.opus"
+    ],
+    "100": [
+      "E7.opus"
+    ]
+  }
+}
